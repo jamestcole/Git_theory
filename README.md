@@ -31,3 +31,5 @@ Many of the advantages of Devops rely on the benefits of git such as faster rele
 GitHub is a web based git repository hosting service which offers the functionality of git as well as online features. Git is the distributed version control system itself.
 
 ## The link between Git and Github
+
+![Alt text](Git-with-GitHub-Workflows.png "a title")
